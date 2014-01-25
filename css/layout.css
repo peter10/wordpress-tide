@@ -1,0 +1,58 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    background-color: #222;
+}
+
+#wrapper {
+    margin: 20px auto;
+    padding: 20px;
+    padding-bottom: 0;
+    width: 575px;
+    background-color: white;
+}
+
+.wide #wrapper, .sidebar #wrapper {
+    width: 800px;
+}
+
+#content {
+    float: left;
+    width: 575px;
+}
+
+.wide #content {
+    width: 800px;
+}
+
+#sidebar {
+    float: right;
+    width: 190px;
+    display: none;
+}
+
+.sidebar #sidebar {
+    display: block;
+}
+
+#footer { clear: both; }
+
+
+#header {
+}
+
+#header a#logo {
+    display: block;
+    float: left;
+    width: 415px;
+    height: 150px;
+    background: url('../images/logo.png') no-repeat;
+    text-indent: -1000em;
+}
+
+#header ul#widget-header {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    float: right;
+}

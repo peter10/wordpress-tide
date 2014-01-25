@@ -1,0 +1,23 @@
+
+a img {
+	border: none;
+}
+
+/* navigation */
+
+#header_menu {
+	margin-top: 20px;
+}
+
+#header_menu a:hover {
+  color: #000;
+}
+/*
+#header_menu > li:nth-child(1) {
+  width: 4em;
+}
+
+#header_menu > li:nth-child(3) {
+  width: 12em;
+}
+*/

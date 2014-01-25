@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" version="2.0">
+			<channel>
+		
+<title>Yahoo! Weather - Toronto, CA</title>
+<link>http://us.rd.yahoo.com/dailynews/rss/weather/Toronto__CA/*http://weather.yahoo.com/forecast/CAXX0504_c.html</link>
+<description>Yahoo! Weather for Toronto, CA</description>
+<language>en-us</language>
+<lastBuildDate>Sat, 25 Jan 2014 4:58 pm EST</lastBuildDate>
+<ttl>60</ttl>
+<yweather:location city="Toronto" region="ON" country="Canada"/>
+<yweather:units temperature="C" distance="km" pressure="mb" speed="km/h"/>
+<yweather:wind chill="-21" direction="310" speed="40.23"/>
+<yweather:atmosphere humidity="55" visibility="" pressure="995.2" rising="1"/>
+<yweather:astronomy sunrise="7:41 am" sunset="5:17 pm"/>
+<image>
+<title>Yahoo! Weather</title>
+<width>142</width>
+<height>18</height>
+<link>http://weather.yahoo.com</link>
+<url>http://l.yimg.com/a/i/brand/purplelogo//uh/us/news-wea.gif</url>
+</image>
+<item>
+<title>Conditions for Toronto, CA at 4:58 pm EST</title>
+<geo:lat>43.65</geo:lat>
+<geo:long>-79.39</geo:long>
+<link>http://us.rd.yahoo.com/dailynews/rss/weather/Toronto__CA/*http://weather.yahoo.com/forecast/CAXX0504_c.html</link>
+<pubDate>Sat, 25 Jan 2014 4:58 pm EST</pubDate>
+<yweather:condition text="Drifting Snow/Windy" code="15" temp="-10" date="Sat, 25 Jan 2014 4:58 pm EST"/>
+<description><![CDATA[
+<img src="http://l.yimg.com/a/i/us/we/52/15.gif"/><br />
+<b>Current Conditions:</b><br />
+Drifting Snow/Windy, -10 C<BR />
+<BR /><b>Forecast:</b><BR />
+Sat - Snow Showers. High: -6 Low: -18<br />
+Sun - Snow Showers. High: -10 Low: -11<br />
+Mon - Snow Showers. High: -11 Low: -21<br />
+Tue - Few Snow Showers. High: -14 Low: -19<br />
+Wed - Partly Cloudy. High: -13 Low: -14<br />
+<br />
+<a href="http://us.rd.yahoo.com/dailynews/rss/weather/Toronto__CA/*http://weather.yahoo.com/forecast/CAXX0504_c.html">Full Forecast at Yahoo! Weather</a><BR/><BR/>
+(provided by <a href="http://www.weather.com" >The Weather Channel</a>)<br/>
+]]></description>
+<yweather:forecast day="Sat" date="25 Jan 2014" low="-18" high="-6" text="Snow Showers" code="14"/>
+<yweather:forecast day="Sun" date="26 Jan 2014" low="-11" high="-10" text="Snow Showers" code="14"/>
+<yweather:forecast day="Mon" date="27 Jan 2014" low="-21" high="-11" text="Snow Showers" code="14"/>
+<yweather:forecast day="Tue" date="28 Jan 2014" low="-19" high="-14" text="Few Snow Showers" code="14"/>
+<yweather:forecast day="Wed" date="29 Jan 2014" low="-14" high="-13" text="Partly Cloudy" code="30"/>
+<guid isPermaLink="false">CAXX0504_2014_01_29_7_00_EST</guid>
+</item>
+</channel>
+</rss>
+<!-- api12.weather.bf1.yahoo.com Sat Jan 25 22:38:21 PST 2014 -->
